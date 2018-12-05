@@ -1,4 +1,4 @@
-## Welcome to the GitHub Tutorial. 
+## Welcome to the GitHub Tutorial.
 It is important to keep up with the new computer services being 
 offered in today’s high tech world.  Most of you are familiar with Box or DropBox accounts.  These 
 services allows one to upload and download files, share files between users, and modify files without 
