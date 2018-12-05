@@ -1,4 +1,4 @@
-## Why?
+## Why is this application useful?
 
 So now that you know a little bit about GitHub and its history, why would you want to use it?  Besides 
 being pretty cool, GitHub allows public sharing of your content.  You can share your software projects 
