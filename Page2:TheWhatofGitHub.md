@@ -1,4 +1,7 @@
 ## Welcome to the GitHub Tutorial.
+
+<img src="http://coolsandfools.com/wp-content/uploads/2015/05/storm-trooper-meme-1.jpg" width = "300">
+
 It is important to keep up with the new computer services being 
 offered in today’s high tech world.  Most of you are familiar with Box or DropBox accounts.  These 
 services allows one to upload and download files, share files between users, and modify files without 
