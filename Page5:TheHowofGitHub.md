@@ -45,4 +45,4 @@ Finally, in this last step, you can combine your changes by merging your readme-
 Master branch.  Just click the Merge pull request button to merge the changes into master and then 
 click Confirm merge.  You can then delete the branch.
 
-[[Previous Page]](https://github.com/NoahGrant17/DigitalConceptTutorial/blob/master/Page4:TheWhyofGitHub.md)
+[Previous Page](https://github.com/NoahGrant17/DigitalConceptTutorial/blob/master/Page4:TheWhyofGitHub.md)
