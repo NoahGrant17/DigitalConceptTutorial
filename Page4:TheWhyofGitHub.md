@@ -1,5 +1,7 @@
 ## Why is this application useful?
 
+![](https://media1.tenor.com/images/847b98a1fe4e325481d20d999137c834/tenor.gif?itemid=10270127)
+
 So now that you know a little bit about GitHub and its history, why would you want to use it?  Besides 
 being pretty cool, GitHub allows public sharing of your content.  You can share your software projects 
 with the world and WOW future employers.  This is because the public can have access to the programs 
