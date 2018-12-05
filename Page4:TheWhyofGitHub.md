@@ -1,3 +1,5 @@
+## Why?
+
 So now that you know a little bit about GitHub and its history, why would you want to use it?  Besides 
 being pretty cool, GitHub allows public sharing of your content.  You can share your software projects 
 with the world and WOW future employers.  This is because the public can have access to the programs 
@@ -7,3 +9,8 @@ Another reason to use GitHub is that it offers free accounts so it really does n
 A final reason to use GitHub is that you can accessed and manipulated other programs using the 
 standard Git command-line interface.  There are over 57 million public repositories on the site.  All 
 registered and non-registered users can browse the public repositories on the site. 
+
+
+[Previous Page](https://github.com/NoahGrant17/DigitalConceptTutorial/blob/master/Page4:TheWhyofGitHub.md)
+
+[Next Page](https://github.com/NoahGrant17/DigitalConceptTutorial/blob/master/Page5:TheHowofGitHub.md)
