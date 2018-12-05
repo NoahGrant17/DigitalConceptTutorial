@@ -1,5 +1,7 @@
 ## History
 
+<img src="https://www.geekalerts.com/u/Star-Wars-Stormtrooper-Demotivational-Regrets-Poster.jpg" width = "400">
+
 In February 2008, GitHub was developed by Chris Wanstrath, PJ Hyett, Tom Preston-Werner and Scott 
 Chacon. They utilized Ruby on Rails. The company, GitHub, Inc. is located in San Francisco.  They have a 
 mascot, which is an anthropomorphized "octocat" with five octopus-like arms.
