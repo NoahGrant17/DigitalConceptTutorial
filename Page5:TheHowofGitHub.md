@@ -1,6 +1,6 @@
 ## How to use GitHub?
 
-<img src="http://www.quickmeme.com/img/72/723f54b0b433ea20c75af23136e84c5b166284ddbcabfe865014b7c4ce9c257e.jpg" width = "300">
+<img src="https://i.kym-cdn.com/photos/images/original/000/234/765/b7e.jpg" width = "300">
 
 Let’s take you through a step-by-step tutorial of using GitHub.  You need to a program to upload.  So 
 let’s say you used the programming language C-sharp to write a code to organize your music library.
