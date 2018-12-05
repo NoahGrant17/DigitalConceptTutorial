@@ -1,3 +1,7 @@
+## How to use GitHub?
+
+<img src="http://www.quickmeme.com/img/72/723f54b0b433ea20c75af23136e84c5b166284ddbcabfe865014b7c4ce9c257e.jpg" width = "300">
+
 Let’s take you through a step-by-step tutorial of using GitHub.  You need to a program to upload.  So 
 let’s say you used the programming language C-sharp to write a code to organize your music library.
 Now let’s upload that code onto GitHub!
@@ -40,3 +44,5 @@ edits, to compare with Master.  Click the Create Pull Request button.
 Finally, in this last step, you can combine your changes by merging your readme-edits branch into the 
 Master branch.  Just click the Merge pull request button to merge the changes into master and then 
 click Confirm merge.  You can then delete the branch.
+
+[[Previous Page]](https://github.com/NoahGrant17/DigitalConceptTutorial/blob/master/Page4:TheWhyofGitHub.md)
