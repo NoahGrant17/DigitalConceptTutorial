@@ -6,3 +6,8 @@ million repositories.  With that many users, GitHub was the largest host of sour
 Because of its success, on June 4, 2018, Microsoft announced that it will acquire GitHub for $7.5 billion. 
 The deal was just recently finalized on October 26, 2018. Even though Microsoft now owns GitHub, they 
 plan to continue to operate independently.
+
+
+[Previous Page](https://github.com/NoahGrant17/DigitalConceptTutorial/blob/master/Page2:TheWhatofGitHub.md)
+
+[Next Page](https://github.com/NoahGrant17/DigitalConceptTutorial/blob/master/Page4:TheWhyofGitHub.md)
